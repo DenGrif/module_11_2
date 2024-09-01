@@ -46,3 +46,4 @@ person = Person("Александр", 30)
 
 person_info = introspection_info(person)
 pprint.pprint(person_info)
+print(person.greed())
